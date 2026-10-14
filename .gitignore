@@ -3,12 +3,9 @@ afl-as
 afl-clang
 afl-clang++
 afl-fuzz
-temp_auto_push.bat
 afl-g++
 afl-gcc
 afl-gotcpu
 afl-showmap
 afl-tmin
 as
-.gitignore
-branch_structure.json
